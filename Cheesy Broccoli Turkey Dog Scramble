@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="A savory and protein-packed Cheesy Broccoli Turkey Dog Scramble recipe.">
+    <title>Cheesy Broccoli Turkey Dog Scramble</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Cheesy Broccoli Turkey Dog Scramble</h1>
+            <p class="intro">A savory and protein-packed breakfast option that brings together turkey hotdogs, cheddar cheese, and broccoli for a quick and satisfying meal.</p>
+        </header>
+
+        <section class="recipe-info">
+            <div class="recipe-meta">
+                <p><strong>Prep Time:</strong> 5 minutes</p>
+                <p><strong>Cook Time:</strong> 10 minutes</p>
+                <p><strong>Total Time:</strong> 15 minutes</p>
+                <p><strong>Servings:</strong> 2</p>
+            </div>
+        </section>
+
+        <section class="ingredients">
+            <h2>Ingredients</h2>
+            <ul>
+                <li>2 turkey hotdogs, sliced</li>
+                <li>1/2 cup cheddar cheese, shredded</li>
+                <li>1/2 cup broccoli, chopped</li>
+                <li>2 large eggs</li>
+                <li>1 tbsp hot sauce (optional)</li>
+                <li>Salt and pepper to taste</li>
+                <li>1 tbsp oil or butter for cooking</li>
+            </ul>
+        </section>
+
+        <section class="instructions">
+            <h2>Instructions</h2>
+            <ol>
+                <li>Heat oil or butter in a pan over medium heat.</li>
+                <li>Add the sliced turkey hotdogs and cook for 2-3 minutes until slightly browned.</li>
+                <li>Add the chopped broccoli and sauté for another 2-3 minutes until tender.</li>
+                <li>Crack the eggs into the pan and scramble, stirring occasionally.</li>
+                <li>Stir in shredded cheddar cheese until melted and evenly distributed.</li>
+                <li>Add hot sauce, salt, and pepper to taste, then serve immediately.</li>
+            </ol>
+        </section>
+
+        <section class="tips">
+            <h2>Tips & Variations</h2>
+            <p>For added flavor, try sprinkling some paprika or garlic powder into the scramble. You can also substitute the turkey hotdogs with chicken sausage or vegetarian alternatives.</p>
+        </section>
+
+        <footer>
+            <p>Enjoyed this recipe? Share it with friends or leave a comment below!</p>
+        </footer>
+    </div>
+</body>
+</html>
